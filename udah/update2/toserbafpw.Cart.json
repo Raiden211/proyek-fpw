@@ -1,0 +1,15 @@
+[{
+  "_id": 1,
+  "id_user": 2,
+  "cart": [
+    {
+      "id_barang": "TS01",
+      "jumlah": 2,
+      "total": 70000,
+      "_id": {
+        "$oid": "679180a9ab947ee0d4b56b56"
+      }
+    }
+  ],
+  "subtotal": 70000
+}]

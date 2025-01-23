@@ -1,0 +1,86 @@
+[{
+  "_id": "TS01",
+  "nama": "Tong sampah",
+  "image": "http://localhost:3000/uploads/1737570535946-tongsampah.jpg",
+  "deskripsi": "Buanglah sampah disini",
+  "id_jenis": 3,
+  "id_user": 1,
+  "stok": 25,
+  "harga": 35000,
+  "reviews": [
+    {
+      "id": 1,
+      "id_user": 2,
+      "review": "Pemakaian bagus cuman kok tutupnya rusak ya?",
+      "rating": 4
+    },
+    {
+      "id": 2,
+      "id_user": 2,
+      "review": "Wih gajadi, bisa wkwkwk",
+      "rating": 5
+    }
+  ]
+},
+{
+  "_id": "KA01",
+  "nama": "Kardus",
+  "image": "http://localhost:3000/uploads/1737570701628-kardus.jpg",
+  "deskripsi": "Untuk membungkus barang lain",
+  "id_jenis": 9,
+  "id_user": 1,
+  "stok": 45,
+  "harga": 20000,
+  "reviews": [
+    {
+      "id": 1,
+      "id_user": 2,
+      "review": "Stoknya dikit c*k 😥",
+      "rating": 3
+    }
+  ]
+},
+{
+  "_id": "SO01",
+  "nama": "Soda",
+  "image": "http://localhost:3000/uploads/1737570804522-soda.jpg",
+  "deskripsi": "Minuman berkarbonat yang (katanya) sehat",
+  "id_jenis": 2,
+  "id_user": 1,
+  "stok": 27,
+  "harga": 21000,
+  "reviews": []
+},
+{
+  "_id": "IB01",
+  "nama": "Indomie bungkus",
+  "image": "http://localhost:3000/uploads/1737570923126-IndomieGoreng80gr.png",
+  "deskripsi": "Makanan sehari-hari dikondisi darurat, tidak disarankan dikonsumsi setiap hari",
+  "id_jenis": 11,
+  "id_user": 1,
+  "stok": 80,
+  "harga": 3500,
+  "reviews": []
+},
+{
+  "_id": "BT01",
+  "nama": "buku tulis",
+  "image": "http://localhost:3000/uploads/1737570983888-buku_tulis.jpg",
+  "deskripsi": "Digunakan untuk mencatat hal-hal yang tidak penting",
+  "id_jenis": 3,
+  "id_user": 1,
+  "stok": 37,
+  "harga": 34000,
+  "reviews": []
+},
+{
+  "_id": "SU01",
+  "nama": "Susu ultra milk",
+  "image": "http://localhost:3000/uploads/1737571361157-susu.jpg",
+  "deskripsi": "Menyehatkan dan sangat menyegarkan",
+  "id_jenis": 2,
+  "id_user": 1,
+  "stok": 18,
+  "harga": 26000,
+  "reviews": []
+}]

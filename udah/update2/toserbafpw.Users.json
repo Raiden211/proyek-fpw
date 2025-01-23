@@ -1,0 +1,20 @@
+[{
+  "_id": 1,
+  "username": "BijiNaga",
+  "first_name": "Biji",
+  "last_name": "Naga",
+  "email": "BijiNaga7413@gmail.com",
+  "password": "$2b$10$ov73jNkQpapK9XeaMLHVcuiCO3DARgEgauKx/28bu/03Pyeq/Zm96",
+  "saldo": 0,
+  "role": 1
+},
+{
+  "_id": 2,
+  "username": "serlok",
+  "first_name": "Manusia",
+  "last_name": "Gua",
+  "email": "kehutan@gmail.com",
+  "password": "$2b$10$ov73jNkQpapK9XeaMLHVcuiCO3DARgEgauKx/28bu/03Pyeq/Zm96",
+  "saldo": 0,
+  "role": 2
+}]
