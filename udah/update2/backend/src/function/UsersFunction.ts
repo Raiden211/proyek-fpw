@@ -15,7 +15,7 @@ interface CartBody {
   jumlah: number;
 }
 const upload = multer();
-const myKey = "SB-Mid-server-1RvUeJgceFjMIkFdbkGJ6MN1";
+const myKey = "";
 
 const addReview = async (req: Request, res: Response): Promise<void> => {
   try {
