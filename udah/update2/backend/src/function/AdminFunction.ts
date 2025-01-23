@@ -11,7 +11,7 @@ import fs from "fs";
 import path from "path";
 import bcrypt from "bcrypt";
 
-const myKey = "SB-Mid-server-1RvUeJgceFjMIkFdbkGJ6MN1";
+const myKey = "";
 
 interface RegisterBody {
   username: string;
